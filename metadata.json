@@ -1,0 +1,10 @@
+{
+  "name": "ScamTrace AI",
+  "description": "Mobile-first QR cybersecurity scanner and threat intelligence engine with real-time heuristic analysis, Google Web Risk verification, and payment protection.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
